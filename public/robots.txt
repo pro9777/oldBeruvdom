@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: */index.php
+Host: https://beruvdom.ru/
+Sitemap: https://beruvdom.ru/sitemap.xml
